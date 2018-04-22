@@ -1,0 +1,75 @@
+Nature of Languages [AHq]  
+African, Middle Eastern, and South Asian Languages and Literatures
+01:013:241	Intermediate Arabic II	4	AHq
+01:013:252	Intermediate Modern Hebrew	4	AHq
+01:013:261	Intermediate Hindi II	4	AHq
+01:013:277	Intermediate Persian II	4	AHq
+01:013:287	Intermediate Swahili II	4	AHq
+01:013:291	Intermediate Turkish II	4	AHq
+01:013:293	Intermediate Twi II	4	AHq
+01:013:295	Intermediate Yoruba II	4	AHq
+01:013:303	Language and Society in AMESALL	3	AHo or AHq
+Anthropology
+01:070:108	Introduction to Linguistic Anthropology	4	AHq
+Arabic
+01:074:241	Intermediate Arabic II	4	AHq
+Armenian
+01:078:118	Intermediate Armenian II	3	AHq
+Chinese
+01:165:202	Intermediate Chinese 	4	AHq
+01:165:210	The Chinese Language: Description and History	3	AHq
+01:165:222	Intermediate Chinese Reading and Writing for Mandarin Speakers	3	AHq
+Classics
+01:190:101	Word Power	3	AHq
+French
+01:420:105	French for Reading Knowledge 	3	AHq
+01:420:106	French for Reading Knowledge II	3	AHq
+01:420:132	Intermediate French II	4	AHq
+01:420:137	Accelerated Intermediate French	4	AHq
+01:420:213	Intensive Advanced Grammar	3	AHq
+01:420:214	Composition and Stylistics	3	AHp or AHq, WCd
+01:420:260	The Theater of France 	4	AHp or AHq, WCd
+German
+01:470:131	Intermediate German 	3	AHq
+01:470:132	Intermediate German II	3	AHq
+01:470:280	The Culture of Yiddish: An Introduction	3	AHq
+Greek
+01:490:206	Intermediate Greek Prose	3	AHq
+01:490:207	Intermediate Greek Prose (formerly Classical Greek Prose)	3	AHq
+Hindi
+01:505:261	Intermediate Hindi II	4	AHq
+Italian
+01:560:105	Italian for Reading Knowledge 	3	AHq
+01:560:106	Italian for Reading Knowledge 	3	AHq
+01:560:132	Intermediate Italian 	4	AHq
+01:560:250	Italian Composition and Stylistics 	3	AHq, WCr or WCd
+Jewish Studies
+01:563:131	Intermediate Modern Hebrew 	4	AHq
+01:563:245	The Culture of Yiddish: An Introduction	3	AHq
+Japanese
+01:565:202	Intermediate Japanese 	4	AHq
+Korean
+01:574:202	Intermediate Korean 	4	AHq
+01:574:250	Korean Language in Culture and Society	3	AHo or AHq
+Latin
+01:580:202	Intermediate Latin Prose	3	AHq
+01:580:203	Intermediate Latin Prose	3	AHq
+Linguistics
+01:615:101	Exploring Language 	3	AHq
+01:615:201	Introduction to Linguistic Theory 	3	AHq, QR
+Polish
+01:787:202	Intermediate Polish II	4	AHq
+Russian
+01:860:202	Intermediate Russian II (formerly Second-Year Russian)	4	AHq
+01:860:208	Intermediate Russian for Russian Speakers	4	AHq
+Spanish
+01:940:110	Introduction to Heritage Culture and Language Studies	3	AHo, AHq
+01:940:132	Intermediate Spanish	4	AHq
+01:940:215	Introduction to Hispanic Literature 	3	AHp or AHq
+01:940:261	Introduction to the Study of Language 	3	AHq
+Swahili
+01:956:287	Intermediate Swahili II	4	AHq
+Communication and Information
+04:189:101	Introduction to Communication and Information Systems and Processing 	3	SCL, AHo or AHq
+Communication
+04:192:200	Communication Theory	3	AHo or AHq

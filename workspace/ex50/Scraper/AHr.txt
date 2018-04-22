@@ -1,0 +1,10 @@
+English
+01:351:209	Creative Writing: Introduction to Multimedia Composition	3	AHr, ITR
+01:351:211	Introduction to Creative Writing	3	AHr
+01:351:212	Introduction to Creative Writing	3	AHr
+Music
+07:700:103	Introduction to Music Theory	3	AHr
+07:700:133	Introduction to Music Theory Online	3	AHr
+Landscape Architecture
+11:550:133	Architectural Design	3	AHr
+11:550:237	Visualization I: Drawing & Drafting	3	AHr

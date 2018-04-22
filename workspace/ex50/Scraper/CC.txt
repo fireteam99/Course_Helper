@@ -1,0 +1,221 @@
+African, Middle Eastern, and South Asian Languages and Literatures
+01:013:204	Introduction to Discourse Analysis	3	CC, SCL
+01:013:205	Cultural Forces in International Politics	3	CC
+01:013:285	Language and Globalization	3	CC
+01:013:305	Languages in Peril (formerly African, Middle Eastern, and South Asian Languages in Peril)	3	CC, ITR
+01:013:307	Introduction to Postcolonial Literatures and Theories	3	CC, AHo or AHp
+American Studies
+01:050:210	The American Dream	4	CC, AHp
+01:050:223	Learning from the Past: Early America and the 21st Century	3	CC, HST
+01:050:316	Twenty-First Century Writing	3	CC, AHp
+Anthropology
+01:070:111	Extinction	4	CC, NS, SCL
+01:070:223	Anthropology of Latin America 	3	CC
+01:070:225	Gender in Global Perspective	3	CC
+01:070:242	Anthropology of the Middle East	3	CC
+01:070:303	Wealth and Culture 	3	CC
+01:070:324	Globalization, Sex, and Families	3	CC
+01:070:372	Body Politics(formerly Anthropology of the Body)	3	CC
+Art History
+01:082:101	Building the Future: An Introduction to Architecture	3	CC, Ahp
+01:082:118	Looking at Twenty First-Century World History	3	CC, HST
+Asian Studies
+01:098:250	Global East Asia	4	CC, HST or SCL
+Biological Sciences
+01:119:150	Biology, Society, and Biomedical Issues 	3	CC, NS
+01:119:152	Biomedical Issues of AIDS 	3	CC
+01:119:154	Genetics, Law, and Social Policy	3	CC, NS
+01:119:155	Human Genetics	3	CC, NS
+01:119:156	Genetics, Evolution and Human Health	3	CC, NS
+01:119:160	Biology, Society, and Ecological Issues 	3	CC, NS
+Chemistry
+01:160:127	Impact of Chemistry 	3	CC, NS
+Cinema Studies
+01:175:321	World Cinema II	3	CC, AHp
+Cognitive Science
+01:185:253	Human Nature and Human Diversity	4	CC, AHo
+Communication and Information
+04:189:103	Information Technology and Informatics	3	CC, ITR
+04:189:353	Digital Technology and Disruptive Change	3	CC, ITR
+Communication
+04:192:346	Intercultural Communication	3	CC, WCr or WCd
+04:192:354	Communication and Technology	3	CC, WCd
+04:192:380	Public Speaking	3	CC, WCr, ITR
+04:192:432	Communication, Technology, and Society	3	CC
+04:192:446	Communication and Social Change	3	CC, WCd
+04:192:478	Family Communication	3	CC, WCd
+Comparative Literature
+01:195:220	The Global Ecological Imagination	3	CC, Aho
+01:195:270	Past Today	3	CC, AHo or AHp
+01:195:272	Russia: Between Empire and Nation	 	CC
+01:195:307	Introduction to Postcolonial Literatures and Theories 	3	CC, AHo or AHp
+01:195:321	World Cinema II	3	CC, AHp
+Computer Science
+01:198:142	Data 101	3	CC, QQ or QR, ITR
+01:198:405	Seminar in Computers and Society	3	CC, WCd
+East Asian Languages and Area Studies
+01:214:245	Global East Asia (no longer offered)	3	CC, HST or SCL, WCd
+Ecology, Evolution and Natural Resources
+11:216:115	Evolution of Sex & Gender in Animals	3	CC, NS
+11:216:317	Conservation Ecology	3	CC, WCd
+Economics
+01:220:120	Inequality	3	CC, SCL
+English
+01:354:205	Cinema Today	4	CC, AHp
+01:354:321	World Cinema II	3	CC, AHp
+01:358:205	The Coming Apocalypse	4	CC, AHp
+01:358:275	The Cultural History of Now	3	CC, AHp
+Environmental and Business Economics
+11:373:101	Economics, People, and the Environment	3	CC, SCL
+11:373:431	International Trade Policy	3	CC
+Environmental Planning and Design
+11:573:202	Environmental Issues in the United States	3	CC, SCL
+Environmental Policies, Institutions and Behavior
+11:374:101	Introduction to Human Ecology	3	CC, SCL
+11:374:115	Water and Society	3	CC, SCL
+11:374:175	Energy and Society	3	CC, SCL
+11:374:279	Politics of Environmental Issues	3	CC, SCL
+Environmental Science
+11:375:101	Introduction to Environmental Science	3	CC, NS
+11:375:197	Environmental Science Literacy	3	CC, ITR
+European Studies
+01:360:320	Politics and Social Policy: Lessons from Europe	3	CC
+French
+01:420:251	France and the World - the World in France (Taught in English)	3	CC, AHp
+01:420:271	Francophilia: Literature and Sexuality in Modern France	3	CC, WCd
+Genetics
+01:447:354	Social, Legal and Ethical Implications of the New Genetics	3	CC
+01:447:356	Evolutionary Medicine	3	CC
+01:447:384	Genetic Analysis I 	4	CC
+Geography
+01:381:101	Introduction to Environmental Studies	3	CC
+01:450:101	Earth Systems	3	CC, NS
+01:450:102	Transforming the Global Environment 	3	CC, NS
+01:450:214	Conservation	4	CC, SCL
+01:450:250	Cities	4	CC, SCL
+01:450:341	South Asia	3	CC
+01:450:363	Geography of Development	3	CC
+01:450:370	Climate Change and Society	3	CC, ITR
+01:558:101	Global Awareness: An Introduction to International and Global Studies	3	CC
+Geological Sciences
+01:460:110	Sea Change: The Rise and Fall of Sea Level and the Jersey Shore	3	CC, NS
+01:460:203	Building and Maintaining a Habitable Planet	3	CC, NS
+01:460:204	The Water Planet	3	CC, NS
+01:460:207	Oil and Gold: The Good, The Bad, and The Ugly	3	CC, NS
+01:460:222	Planet Mars, the Next Frontier	3	CC, NS
+01:460:224	Geology of the Moons and Planets	3	CC, NS
+History
+01:506:118	Looking at Twenty First-Century World History	3	CC, HST
+01:506:151	History and the News	3	CC, HST
+01:508:110	Political Islam: Present and Past	3	CC, HST
+01:508:209	Jerusalem Contested: A City's History from Jewish, Christian, and Muslim Perspectives	3	CC, HST
+01:508:226	War and Violence in Africa	3	CC, HST
+01:512:216	Famous Trials	3	CC, HST
+01:512:268	Plantation to White House	3	CC, HST or SCL
+Information Technology and Informatics
+04:547:111	The Internet and the Information Environment: A Quantitative Approach	3	CC, QR, ITR
+04:547:220	Retrieving and Evaluating Electronic Information	3	CC, ITR
+04:547:340	Gender and Technology	3	CC, SCL, WCd
+Interdisciplinary Studies
+01:556:143	Energy and Climate Change 	3	CC, NS
+01:556:271	Immigrant States: Jersey's Global Routes 	3	CC, SCL
+Japanese
+01:565:215	A-Bomb Literature and Film in Japan	3	CC, AHp
+Jewish Studies
+01:563:100	Introduction to the Modern Middle East	3	CC, HST or SCL, AHo
+01:563:280	Jerusalem Contested: A City's History from Jewish, Christian, and Muslim Perspectives	3	CC, HST
+Journalism and Media Studies
+04:567:330	Exploring New Media	3	CC
+Labor Studies   
+37:575:110	Work, Society, and the Quality of Life	3	CC, SCL
+37:575:215	Youth and Work	3	CC, SCL
+37:575:301	Labor Movements and Democracy	3	CC
+37:575:302	Comparative Social and Labor Legislation	3	CC
+37:575:303	Black Workers in American Society 	3	CC, SCL
+37:575:307	Latino Workers in the U.S.	3	CC
+37:575:309	Working Women in American Society	3	CC, SCL
+37:575:320	Immigrant Workers and Their Rights	3	CC
+37:575:335	Women and the Labor Movement in the US and Globally	3	CC
+37:575:357	Social Movements, Social Change and Work	3	CC
+37:575:359	Organizing for Social Change	3	CC
+37:575:363	Labor and the Global Economy	3	CC
+37:575:364	Diversity in the Workplace	3	CC
+Landscape Architecture
+11:550:230	Environmental Design Analysis	3	CC, AHp
+11:550:371	Agriculture and the Landscape	3	CC
+Latin American Studies
+01:590:101	Latin America: An Introduction 	3	CC, HST or SCL
+Latino and Caribbean Studies
+01:595:100	Introduction to Caribbean Studies	3	CC
+01:595:101	Introduction to Latino Studies	3	CC
+01:595:202	Color-Lines and Borderlands	4	CC, Aho
+01:595:271	Immigrant States: Jersey's Global Routes 	3	CC, SCL
+01:595:333	Caribbean Religion	3	CC, SCL, WCr
+Marine and Coastal Sciences
+11:628:204	The Water Planet	3	CC, NS
+11:628:2C	Human Interactions with the Coastal Ocean	3	CC, NS
+Microbiology
+11:680:101	Living in the Microbial World	3	CC, NS
+11:680:103	Microbiology of Agricultural Products in New Jersey	3	CC, NS
+Middle Eastern Studies
+01:685:100	Introduction to the Modern Middle East	3	CC, HST or SCL, AHo
+01:685:110	Political Islam: Present and Past	3	CC, HST
+01:685:280	Jerusalem Contested: A City's History from Jewish, Christian, and Muslim Perspectives	3	CC, HST
+01:685:306	Multiple Identities of the Middle East	3	CC, HST
+Molecular Biology and Biochemistry
+01:694:414	Harnessing Solar Energy	3	CC
+Music
+07:700:292	Musics of the World	3	CC, AHp
+Nutritional Sciences
+11:709:255	Nutrition and Health	3	CC, NS
+Organizational Leadership
+01:713:308	Leadership in a Diverse Workplace	3	CC
+Philosophy
+01:730:252	Eating Right: The Ethics of Food Choices and Food Policy	4	CC, AHo, WCd
+01:730:253	Human Nature and Human Diversity	4	CC, AHo
+Physics
+01:750:140	The Greenhouse Effect 	3	CC, NS
+Political Science
+01:790:120	Inequality	3	CC, SCL
+01:790:313	Political Economy of East Asia	3	CC
+01:790:318	Comparative Public Policy	3	CC
+01:790:320	Politics and Social Policy: Lessons from Europe	3	CC
+01:790:333	Race, Ethnicity, and Politics	3	CC
+Psychology
+01:830:123	Soul Beliefs: Causes and Consequences	4	CC, HST
+Public Health   
+10:832:252	Health and Social Justice	3	CC, SCL
+Religion
+01:840:101	Gods, Myths, and Religions in a Secular Age	3	CC, AHo
+01:840:105	Religions Now: 21st Century Controversies	4	CC, AHo
+01:840:125	Political Islam: Present and Past	2	CC, HST
+01:840:333	Caribbean Religion	3	CC, SCL, WCr
+Russian
+01:860:272	Russia: Between Empire and Nation	3	CC
+Sexualities Studies
+01:888:290	Introduction to Critical Sexualities Studies 	3	CC
+01:888:291	Francophilia: Literature and Sexuality in Modern France	3	CC, WCd
+Sociology
+01:920:101	Introduction to Sociology	3	CC, SCL
+01:920:103	Sociological Analysis of Social Problems	3	CC, SCL
+01:920:108	Minority Groups in American Society	3	CC, SCL
+01:920:240	Normality and Abnormality	4	CC, SCL, WCd
+01:920:273	War: Critical Perspectives	3	CC, SCL
+Spanish
+01:940:363	Bilingualism in the Spanish-Speaking World 	3	CC
+01:940:418	The Spanish Language in Social Contexts 	3	CC
+01:940:450	Spanish-American Theater 	3	CC
+01:940:462	Environment and Literature in Hispanic Culture	3	CC
+Statistics
+01:960:142	Data 101	3	CC, QQ or QR, ITR
+Study Abroad
+Theater Arts   
+07:965:370	Global Theater I	3	CC, AHo
+Women's and Gender Studies
+01:988:101	Introduction to Gender, Race, and Sexuality (formerly Women, Culture, and Society)	3	CC
+01:988:130	Knowledge and Power: Issues in Women's Leadership	3	CCa
+01:988:235	Dynamics of Class, Race, and Sex	3	CC
+01:988:270	War: Critical Perspectives	3	CC, SCL
+01:988:309	Working Women in American Society	3	CC, SCL
+01:988:317	Gender and Consumption	3	CC
+01:988:337	Globalization, Sex, and Families	3	CC

@@ -1,0 +1,69 @@
+African, Middle Eastern, and South Asian Languages and Literatures
+01:013:305	Languages in Peril (formerly African, Middle Eastern, and South Asian Languages in Peril)	3	CC, ITR
+Anthropology
+01:070:207	Prehistoric Archaeology of Europe 	3	WCr or WCd, ITR
+Asian Studies
+01:098:444	Seminar on East Asian Societies 	3	WCr or WCd, ITR
+Computer Science
+01:198:105	Great Insights in Computer Science	3	QR, ITR
+01:198:107	Computing for Math and the Sciences	3	QR, ITR
+01:198:110	Introduction to Computers and Their Applications	3	QR, ITR
+01:198:111	Introduction to Computer Science	4	QQ or QR, ITR
+01:198:142	Data 101	3	CC, QQ or QR, ITR
+01:198:170	Computer Applications for Business	3	QR, ITR
+English
+01:351:209	Creative Writing: Introduction to Multimedia Composition	3	AHr, ITR
+01:351:314	Documentary Filmmaking for Writers	3	ITR
+01:359:362	Digital Literary Studies	3	ITR
+Genetics
+01:447:203	Honors Computational Genetics	3	ITR
+01:447:302	Quantitative Biology and Bioinformatics	3	ITR
+01:447:303	Computational Genetics of Big Data	3	ITR
+01:447:315	Introduction to Research in Genetics	3	ITR
+01:447:406	Research in Genetics	3-6	ITR
+01:447:407	Research in Genetics	3-6	ITR
+01:447:408	Honors in Genetics	3-6	ITR
+01:447:409	Honors in Genetics	3-6	ITR
+Geography
+01:450:208	Maps, Power, and the Digital World	3	ITR
+01:450:3C	Geographic Information Systems	3	QR, ITR
+01:450:322	Remote Sensing	3	WCd, ITR
+01:450:355	Principles of Cartography	3	WCd, ITR
+01:450:370	Climate Change and Society	3	CC, ITR
+Latino and hispanic Caribbean Studies
+01:595:215	Research Methods in Latino and Caribbean Studies	3	ITR
+Mathematics
+01:640:251	Multivariable Calculus	4	ITR
+Molecular Biology and Biochemistry
+01:694:214	Introduction to Molecular Biology Research	3	ITR
+01:694:215	Honors Introduction to Research in Molecular Biology	3	ITR
+01:694:315	Introduction to Molecular Biology and Biochemistry Research	3	ITR
+01:694:316	Honors Introduction to Molecular Biology, Biochemistry, Genetics Research	4	ITR
+Political Science
+01:790:300	Introduction to Political Science Methods	3	QQ, ITR
+Sociology
+01:920:312	Introduction to Statistics in Sociology	4	QQ or QR, ITR
+Statistics
+01:960:142	Data 101	3	CC, QQ or QR, ITR
+01:960:211	Statistics I 	3	QQ or QR, ITR
+01:960:212	Statistics II 	3	QQ or QR, ITR
+01:960:285	Introductory Statistics for Business 	3	QQ or QR, ITR
+01:960:401	Basic Statistics for Research 	3	QQ or QR, ITR
+Communication and Information
+04:189:103	Information Technology and Informatics	3	CC, ITR
+04:189:152	The Structure of Information	3	ITR
+04:189:251	Strategic Presentation Methods in Digital Media	3	ITR
+04:189:353	Digital Technology and Disruptive Change	3	CC, ITR
+Communication
+04:192:300	Communication Research	3	QQ, ITR
+04:192:380	Public Speaking	3	CC, WCr, ITR
+Information Technology and Informatics
+04:547:111	The Internet and the Information Environment: A Quantitative Approach	3	CC, QR, ITR
+04:547:220	Retrieving and Evaluating Electronic Information	3	CC, ITR
+Education
+05:300:350	Education and Computers	3	ITR
+Environmental Sciences
+11:375:197	Environmental Science Literacy	3	CC, ITR
+11:375:310	Analytical Environmental Chemistry Laboratory	3	WCd, ITR
+Meteorology
+11:670:101	Introduction to Meteorology	3	NS, ITR

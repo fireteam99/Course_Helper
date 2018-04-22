@@ -1,0 +1,132 @@
+01:013:372	Islamic Mystical Literatures	3   AHo, WCr or WCd
+Africana Studies
+01:014:490	Seminar in Africana Studies	3	WCr or WCd
+American Studies
+01:050:240	Latino Literature and Culture	3	AHo, WCr
+01:050:295	Latino and Caribbean Cultural Studies	3	AHp, WCr
+01:050:327	Latino Ethnography	3	WCr or WCd
+Anthropology
+01:070:207	Prehistoric Archaeology of Europe	3	WCr or WCd, ITR
+01:070:321	Latino Ethnography	3	WCr or WCd
+01:070:417	Writing Ethnography	3	WCr or WCd
+Art History
+01:082:253	Contemporary Photography	3	AHp, WCr or WCd
+Asian Studies
+01:098:241	East Asian Civilizations: Traditional Era 	3	HST or SCL, WCr or WCd
+01:098:444	Seminar on East Asian Societies 	3	WCr or WCd, ITR
+Chinese Studies
+01:170:245	Women and Contemporary Chinese Society	3	CC, HST, WCr or WCd
+01:170:284	Chinese Philosophical Themes and Literary Writings	3	AHo or AHp, WCr or WCd
+01:170:328	Special Topics in Modern Chinese Literature and Film	3	AHo or AHp, WCr or WCd
+01:170:350	Confucianism and East Asian Modernities	3	AHo, WCr or WCd
+Classics
+01:190:323	Criminals and Saints: Power in Greek Political Life and Imagination	3	WCr or WCd
+Comparative Literature
+01:195:203	Masterworks of Western Literature	3	AHp, WCr or WCd
+01:195:295	Latino and Caribbean Cultural Studies	3	AHp, WCr
+01:195:345	From Dostoevsky to The Wire: Serial Story Telling Across Media	3	WCr
+East Asian Languages and Area Studies
+01:214:241	East Asian Civilizations: Traditional Era 	3	HST or SCL, WCr or WCd
+English
+01:354:410	Seminar in Film Studies	4	WCr
+01:354:420	Seminar: Film Theory	3	WCr
+01:355:201	Research in the Disciplines	3	WCr or WCd
+01:355:202	Technical Writing Essentials 	3	WCr
+01:355:203	Business Writing Essentials 	3	WCr
+01:355:301	College Writing and Research 	3	WCr or WCd
+01:355:302	Scientific and Technical Writing	3	WCr or WCd
+01:355:303	Writing for Business and the Professions	3	WCr or WCd
+01:355:312	Writing for Biology and the Professions	3	WCr or WCd
+01:355:315	Writing Grant Proposals 	3	WCr or WCd
+01:355:322	Writing for Engineers	3	WCr or WCd
+01:355:342	Science Writing	3	WCr or WCd
+01:355:352	Writing as a Naturalist	3	WCr or WCd
+01:355:355	Writing in the Professions	3	WCr or WCd
+01:355:375	Collaborative Writing Practices	3	WCr or WCd
+01:358:412	Seminar: Old English Language and Literature	3	WCr
+01:358:420	Seminar: Chaucer	3	WCr
+01:358:422	Seminar: Topics in Medieval Literature and Culture	3	WCr
+01:358:424	Seminar: Spenser	3	WCr
+01:358:426	Seminar: Shakespeare	3	WCr
+01:358:428	Seminar: Milton	3	WCr
+01:358:434	Seminar: Topics in Renaissance Literature and Culture	3	WCr
+01:358:435	Seminar: Topics in Restoration and 18th-Century Literature and Culture	3	WCr
+01:358:436	Seminar: Topics in 19th-Century Literature and Culture	3	WCr
+01:358:437	Seminar: Topics in 20th-Century Literature and Culture	3	WCr
+01:358:441	Seminar: Topics in American Literature and Culture to 1800	3	WCr
+01:358:442	Seminar: Topics in 19th-Century American Literature and Culture	3	WCr
+01:358:445	Seminar: Topics in Black Literature and Culture	3	WCr
+01:358:452	Seminar: Special Topics in American Literature	3	WCr
+01:358:460	Seminar: Topics in Colonial and Postcolonial Literature	3	WCr
+01:358:491	Seminar: Special Topics in Literature	3	WCr
+01:359:209	Introduction to Health, Medicine, and Literature	3	AHo, WCr
+01:359:410	Seminar: Topics in Literary Theory	3	WCr
+01:359:425	Seminar: Topics in Literature and Psychology	3	WCr
+01:359:435	Seminar: Topics in Feminist Theory	3	WCr
+Genetics
+01:447:410	Research in Genetics - Writing Intensive	3	WCr or WCd
+01:447:414	Thesis Writing and Communication in Genetics	2	WCr
+01:447:430	Effective Communication Skills in Genetics	3	WCr or WCd
+German
+01:470:301	Introduction to Literary and Cultural Analysis	3	AHp, WCr or WCd
+01:470:302	Introduction to Literary and Cultural Analysis	3	AHp, WCr or WCd
+History
+01:506:401	History Seminar	3	WCr or WCd
+01:506:402	History Seminar	3	WCr or WCd
+01:506:495	Honors Program in History	3-6	WCr or WCd
+01:506:496	Honors Program in History	3-6	WCr or WCd
+01:510:319	The Age of Reformation, 1500-1648	3	WCr or WCd
+01:510:351	Medieval Italy 476-1300	3	WCr or WCd
+01:512:329	Technology and Nature in American History	3	WCr or WCd
+Italian
+01:560:250	Italian Composition and Stylistics 	3	AHq, WCr or WCd
+01:560:496	Honors in Italian 	3	WCr or WCd
+Jewish Studies
+01:563:464	Jewish Studies Seminar	3	WCr or WCd
+Korean
+01:574:210	Introduction to Korean Culture, History and Society	3	HST, AHo, WCr
+Latino and Caribbean Studies
+01:595:240	Latino Literature and Culture	3	AHo, WCr
+01:595:295	Latino and Caribbean Cultural Studies	3	AHp, WCr
+01:595:307	Latino Ethnography	3	WCr or WCd
+01:595:333	Caribbean Religion	3	CC, SCL, WCR
+Molecular Biology and Biochemistry
+01:694:385	MBB Research & Writing	3-6	WCr or WCd
+01:694:495	Honors Laboratory Research	6	WCr or WCd
+Philosophy
+01:730:104	Introduction to Philosophy 	4	AHo, WCr or WCd
+01:730:297	Sophomore Advanced Seminar	3	WCr or WCd
+01:730:397	Junior Advanced Seminar	3	WCr or WCd
+Political Science
+01:790:379	Concepts of Liberty and Equality:  Writing with Revisions in Political Science	3	WCr
+Psychology
+01:830:301+302	Sensation and Perception Lecture and Laboratory	3+1	WCr or WCd
+01:830:305+306	Cognition Lecture and Laboratory	3+1	WCr or WCd
+01:830:311+312	Learning Processes Lecture and Laboratory (formerly Conditioning and Learning Lecture and Laboratory)	3+1	WCr or WCd
+01:830:313+314	Physiological Psychology Lecture and Laboratory	3+1	WCr or WCd
+01:830:323	Research Methods in Social Psychology	4	WCr or WCd
+01:830:331+332	Infant and Child Development Lecture and Laboratory	3+1	WCr or WCd
+01:830:340+341	Abnormal Psychology Lecture and Laboratory	3+1	WCr or WCd
+Religion
+01:840:305	Apocalypse: Religious Movements and the End of Time	3	HST, WCr or WCd
+01:840:311	Christians, "the Other", and Violence	3	WCr
+01:840:314	The Origins of Western Morality	3	HST, WCr or WCd
+01:840:316	Evangelicalism in the U.S.	3	HST, WCr or WCd
+01:840:319	Religion in American History	3	HST, WCr or WCd
+01:840:333	Caribbean Religion	3	CC, SCL, WCR
+01:840:370	Buddhism, Society, and Politics in Southeast Asia	3	HST, WCr or WCd
+01:840:372	Islamic Mystical Literature	3	AHo, WCr or WCd
+01:840:380	Religious Healing in the U.S.	3	HST, WCr or WCd
+Russian & East European Languages and Literature
+01:860:345	From Dostoevsky to The Wire: Serial Story Telling Across Media	3	WCr
+01:860:349	Russia's Wars on Page and Screen	3	WCr or WCd
+Communication
+04:192:346	Intercultural Communication	3	CC, WCr or WCd
+04:192:359	Persuasive Communication	3	WCr or WCd
+04:192:380	Public Speaking	3	CC, WCr, ITR
+Public Health
+10:832:339	Public Health Literature	3	WCr or WCd
+Labor Studies
+37:575:201	U.S. Labor and Work before the end of Reconstruction	3	HST or SCL, WCr or WCd
+37:575:202	History of Labor and Work in the U.S. 1880 to 1945	3	HST or SCL, WCr or WCd
+37:575:300	Writing in Labor Studies & Employment Relations	3	WCr or WCd

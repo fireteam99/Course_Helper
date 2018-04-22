@@ -1,0 +1,177 @@
+African, Middle Eastern, and South Asian Languages and Literatures
+01:013:372	Islamic Mystical Literatures	3	AHo, WCr or WCd
+01:013:401	Senior Seminar in Literature and Society	3	WCd
+01:013:430	Gender, Nation, and Literature in South Asia	3	WCd
+01:013:445	Storytelling in the Muslim World	3	WCd
+Africana Studies
+01:014:490	Seminar in Africana Studies	3	WCr or WCd
+American Studies
+01:050:310	Approaches to American Studies	3	WCd
+01:050:327	Latino Ethnography	3	WCr or WCd
+01:050:389	Junior Seminar in American Studies	3	WCd
+Anthropology
+01:070:207	Prehistoric Archaeology of Europe	3	WCr or WCd, ITR
+01:070:321	Latino Ethnography	3	WCr or WCd
+01:070:417	Writing Ethnography	3	WCr or WCd
+Art History
+01:082:253	Contemporary Photography	3	AHp, WCr or WCd
+01:082:491	Seminar in Art History	3	WCd
+01:082:492	Seminar in Art History	3	WCd
+Arts and Sciences
+01:090:292	SAS Honors Program Seminar	3	WCd
+01:090:293	SAS Honors Program Seminar	3	WCd
+01:090:294	SAS Honors Program Seminar	3	WCd
+01:090:295	SAS Honors Program Seminar	3	WCd
+01:090:296	SAS Honors Program Seminar	3	WCd
+01:090:297	SAS Honors Program Seminar	3	WCd
+Asian Studies
+01:098:241	East Asian Civilizations: Traditional Era 	3	HST or SCL, WCr or WCd
+01:098:444	Seminar on East Asian Societies 	3	WCr or WCd, ITR
+Chinese Studies
+01:170:245	Women and Contemporary Chinese Society	3	CC, HST, WCr or WCd
+01:170:284	Chinese Philosophical Themes and Literary Writings	3	AHo or AHp, WCr or WCd
+01:170:328	Special Topics in Modern Chinese Literature and Film	3	AHo or AHp, WCr or WCd
+01:170:350	Confucianism and East Asian Modernities	3	AHo, WCr or WCd
+Classics
+01:190:323	Criminals and Saints: Power in Greek Political Life and Imagination	3	WCr or WCd
+Comparative Literature
+01:195:203	Masterworks of Western Literature	3	AHp, WCr, WCd
+01:195:246	Fairy Tales Then and Now	3	AHp, WCd
+01:195:251	Major French Writers in Translation	3	AHp, WCd
+01:195:348	Stories of Russian Life: Memory, Invention, Experience	3	AHo or AHp, WCd
+01:195:430	Gender, Nation, and Literature in South Asia	3	WCd
+01:195:489	Tolstoy's War and Peace	3	WCd
+Computer Science
+01:198:405	Seminar in Computers and Society	3	CC, WCd
+East Asian Languages and Area Studies
+01:214:241	East Asian Civilizations: Traditional Era 	3	HST or SCL, WCr or WCd
+01:214:245	Global East Asia (no longer offered)	3	CC, HST or SCL, WCd
+English
+01:355:201	Research in the Disciplines	3	WCr or WCd
+01:355:301	College Writing and Research	3	WCr or WCd
+01:355:302	Scientific and Technical Writing	3	WCr or WCd
+01:355:303	Writing for Business and the Professions	3	WCr or WCd
+01:355:312	Writing for Biology and the Professions	3	WCr or WCd
+01:355:315	Writing Grant Proposals 	3	WCr or WCd
+01:355:322	Writing for Engineers	3	WCr or WCd
+01:355:342	Science Writing	3	WCr or WCd
+01:355:352	Writing as a Naturalist	3	WCr or WCd
+01:355:355	Writing in the Professions	3	WCr or WCd
+01:355:375	Collaborative Writing Practices	3	WCr or WCd
+01:359:201	Principles of Literary Study: Poetry (formerly Principles of Literary Study)	3	AHp, WCd
+01:359:202	Principles of Literary Study: Prose (formerly Principles of Literary Study)	3	AHp, WCd
+French
+01:420:214	Composition and Stylistics	3	AHp or AHq, WCd
+01:420:215	Aspects of French Literature	3	AHo or AHp, WCd
+01:420:216	Aspects of French Literature	3	AHo or AHp, WCd
+01:420:217	Approaches to French Literature (Honors)	3	AHo or AHp, WCd
+01:420:218	Approaches to French Literature (Honors)	3	AHo or AHp, WCd
+01:420:241	Major French Writers in Translation 	3	AHp, WCd
+01:420:242	Major French Writers in Translation 	3	AHp, WCd
+01:420:260	The Theater of France (in English)	3	AHp or AHq, WCd
+01:420:271	Francophilia: Literature and Sexuality in Modern France	3	CC, WCd
+Genetics
+01:447:410	Research in Genetics - Writing Intensive	3	WCr or WCd
+01:447:415	Thesis Writing and Communication in Genetics	2	WCd
+01:447:430	Effective Communication Skills in Genetics	3	WCr or WCd
+01:447:495	Cancer	3	WCd
+Geography
+01:450:322	Remote Sensing	3	WCd, ITR
+01:450:355	Principles of Cartography	3	WCd, ITR
+German
+01:470:225	Fairy Tales Then and Now	3	AHp, WCd
+01:470:232	Advanced German (formerly Advanced Conversation and Composition)	3	WCd
+01:470:275	Introduction to German Studies	3	AHp, WCd
+01:470:301	Introduction to Literary and Cultural Analysis	3	AHp, WCr or WCd
+01:470:302	Introduction to Literary and Cultural Analysis	3	AHp, WCr or WCd
+History
+01:506:401	History Seminar	3	WCr or WCd
+01:506:402	History Seminar	3	WCr or WCd
+01:506:495	Honors Program in History	3-6	WCr or WCd
+01:506:496	Honors Program in History	3-6	WCr or WCd
+01:508:326	Islam in African History	3	WCd
+01:508:337	Pirates, Pilgrims and Poets: Globalization in Indian Ocean History	3	WCd
+01:510:319	The Age of Reformation, 1500-1648	3	WCr or WCd
+01:510:327	Twentieth-Century Europe	3	WCd
+01:510:333	France, Old Regime, and Revolution	3	WCd
+01:510:351	Medieval Italy 476-1300	3	WCr or WCd
+01:510:381	Eastern Europe, 1800-1948	3	WCd
+01:510:383	Eastern Europe, 1945-Present	3	WCd
+01:512:304	The Forging of Modern America, 1880-1920	3	WCd
+01:512:329	Technology and Nature in American History	3	WCr or WCd
+01:512:377	The 1960s	3	WCd
+Italian
+01:560:250	Italian Composition and Stylistics 	3	AHq, WCr or WCd
+01:560:496	Honors in Italian 	3	WCr or WCd
+Jewish Studies
+01:563:464	Jewish Studies Seminar	3	WCr or WCd
+Latino and Caribbean Studies
+01:595:307	Latino Ethnography	3	WCr or WCd
+Middle Eastern Studies
+01:685:457	Islamic Law and Jurisprudence	3	WCd
+Molecular Biology and Biochemistry
+01:694:385	MBB Research & Writing	3-6	WCr or WCd
+01:694:495	Honors Laboratory Research	6	WCr or WCd
+Philosophy
+01:730:104	Introduction to Philosophy 	4	AHo, WCr or WCd
+01:730:252	Eating Right: The Ethics of Food Choices and Food Policy	4	CC, AHo, WCd
+01:730:297	Sophomore Advanced Seminar	3	WCr or WCd
+01:730:397	Junior Advanced Seminar	3	WCr or WCd
+Political Science
+01:790:395	Political Science Seminar	3	WCd
+01:790:457	Islamic Law and Jurisprudence	3	WCd
+Psychology
+01:830:301+302	Sensation and Perception Lecture and Laboratory	3+1	WCr or WCd
+01:830:305+306	Cognition Lecture and Laboratory	3+1	WCr or WCd
+01:830:311+312	Learning Processes Lecture and Laboratory (formerly Conditioning and Learning Lecture and Laboratory)	3+1	WCr or WCd
+01:830:313+314	Physiological Psychology Lecture and Laboratory	3+1	WCr or WCd
+01:830:323	Research Methods in Social Psychology	4	WCr or WCd
+01:830:331+332	Infant and Child Development Lecture and Laboratory	3+1	WCr or WCd
+01:830:340+341	Abnormal Psychology Lecture and Laboratory	3+1	WCr or WCd
+Religion
+01:840:305	Apocalypse: Religious Movements and the End of Time	3	HST, WCr or WCd
+01:840:314	The Origins of Western Morality	3	HST, WCr or WCd
+01:840:316	Evangelicalism in the U.S.	3	HST, WCr or WCd
+01:840:319	Religion in American History	3	HST, WCr or WCd
+01:840:370	Buddhism, Society, and Politics in Southeast Asia	3	HST, WCr or WCd
+01:840:372	Islamic Mystical Literature	3	AHo, WCr or WCd
+01:840:380	Religious Healing in the U.S.	3	HST, WCr or WCd
+Russian & East European Languages and Literature
+01:860:322	Love and Death in the Russian Short Story	3	AHo or AHp, WCd
+01:860:331	Tolstoy	3	AHo or AHp, WCd
+01:860:348	Stories of Russian Life: Memory, Invention, Experience (formerly Autobiographical Creations in Russian Literature)	3	AHo or AHp, WCd
+01:860:349	Russia's Wars on Page and Screen	3	WCr or WCd
+01:860:489	Tolstoy's War and Peace	3	WCd
+Sexualities Studies
+01:888:291	Francophilia: Literature and Sexuality in Modern France	3	CC, WCd
+Sociology
+01:920:240	Normality and Abnormality	4	CC, SCL, WCd
+Women's and Gender Studies
+01:988:431	Gender, Nation, and Literature in South Asia	3	WCd
+Communication
+04:192:346	Intercultural Communication	3	CC, WCr or WCd
+04:192:354	Communication and Technology	3	CC, WCd
+04:192:359	Persuasive Communication	3	WCr or WCd
+04:192:390	Approaches to Leadership	3	WCd
+04:192:408	Health Message and Campaign Design	3	WCd
+04:192:446	Communication and Social Change	3	CC, WCd
+04:192:478	Family Communication	3	CC, WCd
+Information Technology and Informatics
+04:547:340	Gender and Technology 	3	CC, SCL, WCd
+Journalism and Media Studies
+Planning and Public Policy
+10:762:210	Principles of Public Policy	3	SCL, WCd
+Public Health
+10:832:339	Public Health Literature	3	WCr or WCd
+Public Policy
+10:833:210	Principles of Public Policy	3	SCL, WCd
+Public Administration and Management
+10:843:210	Principles of Public Policy	3	SCL, WCd
+Ecology, Evolution and Natural Resources
+11:216:317	Conservation Ecology	3	CC, WCd
+Environmental Sciences
+11:375:310	Analytical Environmental Chemistry Laboratory	3	WCd, ITR
+Labor Studies
+37:575:201	U.S. Labor and Work before the end of Reconstruction	3	HST or SCL, WCr or WCd
+37:575:202	History of Labor and Work in the U.S. 1880 to 1945	3	HST or SCL, WCr or WCd
+37:575:300	Writing in Labor Studies & Employment Relations	3	WCr or WCd

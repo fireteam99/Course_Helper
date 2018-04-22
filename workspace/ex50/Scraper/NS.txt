@@ -1,0 +1,92 @@
+Anthropology
+01:070:102	Introduction to Human Evolution	4	NS, HST
+01:070:111	Extinction	4	CC, NS, SCL
+01:070:201	Evolution and Human Behavior	3	NS
+01:070:212	The Life of Primates	3	NS
+Biological Sciences
+01:119:101	General Biology 	4	NS
+01:119:102	General Biology 	4	NS
+01:119:103	Principles of Biology	4	NS
+01:119:115	General Biology I	4	NS
+01:119:116	General Biology II	4	NS
+01:119:150	Biology, Society, and Biomedical Issues 	3	CC, NS
+01:119:154	Genetics, Law, and Social Policy	3	CC, NS
+01:119:155	Human Genetics	3	CC, NS
+01:119:156	Genetics, Evolution and Human Health	3	CC, NS
+01:119:160	Biology, Society, and Ecological Issues	3	CC, NS
+01:119:171	Drugs and Plant Hallucinogens	3	NS
+01:119:182	Essentials of Human Reproduction	3	NS
+01:119:199	(was 01:119:100)	Concepts in Biology	4	NS
+Chemistry
+01:160:127	Impact of Chemistry 	3	CC, NS
+01:160:128	Chemistry of Life 	3	NS
+01:160:159	General Chemistry for Engineers 	3	NS
+01:160:160	General Chemistry for Engineers 	3	NS
+01:160:161	General Chemistry	4	NS
+01:160:162	General Chemistry 	4	NS
+01:160:163	Honors General Chemistry 	4	NS
+01:160:164	Honors General Chemistry 	4	NS
+Geography
+01:450:101	Earth Systems	3	CC, NS
+01:450:102	Transforming the Global Environment	3	CC, NS
+01:450:213	The Global Climate System	3	NS
+Geological Sciences
+01:460:100	Planet Earth 	3	NS
+01:460:101	Introductory Geology	4	NS
+01:460:110	Sea Change: The Rise and Fall of Sea Level and the Jersey Shore	3	CC, NS
+01:460:120	Introduction to Oceanography 	3	NS
+01:460:201	Earthquakes and Volcanoes	3	NS
+01:460:202	Environmental Geology 	3	NS
+01:460:203	Building and Maintaining a Habitable Planet	3	CC, NS
+01:460:204	The Water Planet	3	CC, NS
+01:460:206	Dinosaurs 	3	NS
+01:460:207	Oil and Gold: The Good, The Bad, and The Ugly	3	CC, NS
+01:460:210	Rocks and Minerals	3	NS
+01:460:212	Earth and Life through Time 	3	NS
+01:460:213	A Walk Through Time - The Evolution of Mammals	3	NS
+01:460:222	Planet Mars, the Next Frontier	3	CC, NS
+01:460:224	Geology of the Moons and Planets	3	CC, NS
+Interdisciplinary Studies
+01:556:143	Energy and Climate Change 	3	CC, NS
+Physics
+01:750:106	Concepts of Physics for Humanities and Social Science Students	3	NS
+01:750:109	Astronomy & Cosmology	3	NS
+01:750:110	Astronomy & Cosmology	3	NS
+01:750:140	The Greenhouse Effect	3	CC, NS
+01:750:193	Physics for the Sciences	4	NS
+01:750:194	Physics for the Sciences	4	NS
+01:750:201	Extended General Physics	5	NS
+01:750:202	Extended General Physics	5	NS
+01:750:203	General Physics	3	NS
+01:750:204	General Physics	3	NS
+01:750:227	Analytical Physics II-A	3	NS
+01:750:228	Analytical Physics II-B	3	NS
+01:750:271	Honors Physics I	3	NS
+01:750:272	Honors Physics II	3	NS
+Animal Science
+11:067:142	Animal Science	3	NS
+11:067:250	Companion Animal Science	3	NS
+Ecology, Evolution and Natural Resources
+11:216:101	Introduction to Ecology and Evolution	3	NS
+11:216:110	Evolution, Disease, and Medicine	3	NS
+11:216:115	Evolution of Sex & Gender in Animals	3	CC, NS
+Environmental Science
+11:375:101	Intro to Environmental Science	3	CC, NS
+Food Science
+11:400:103	Science of Food	3	NS
+11:400:104	Food and Health	3	NS
+11:400:106	Food As Medicine	3	NS
+Marine and Coastal Sciences
+11:628:120	Introduction to Oceanography	3	NS
+11:628:204	The Water Planet	3	CC, NS
+11:628:221	Human Interactions with the Coastal Ocean	3	CC, NS
+Meteorology
+11:670:101	Introduction to Meteorology (formerly Elements of Meteorology)	3	NS, ITR
+11:670:102	Introduction to Climate Science (formerly Elements of Climatology)	3	NS
+Microbiology
+11:680:101	Living in the Microbial World	3	CC, NS
+11:680:103	Microbiology of Agricultural Products in New Jersey	3	CC, NS
+Nutritional Sciences
+11:709:255	Nutrition and Health	3	CC, NS
+Plant Science
+11:776:170	Plants and People	3	NS

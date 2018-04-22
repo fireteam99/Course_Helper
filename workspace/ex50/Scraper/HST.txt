@@ -1,0 +1,180 @@
+AMESALL: African, Middles Eastern, and South Asian Languages and Literature
+01:013:120	Literary Egypt: The World of Naguib Mahfouz	3	HST
+01:013:130	Comics in the Middle East	3	HST
+African Studies
+01:016:220	Ancient Africa 	3	HST or SCL
+01:016:222	Modern Africa 	3	HST or SCL
+01:016:224	Women and Gender in African History 	3	HST or SCL
+American Studies
+01:050:223	Learning from the Past: Early America and the 21st Century	3	CC, HST
+Africana Studies
+01:014:205	Islamic Civilization 	3	HST or SCL
+01:014:370	The Afro-Atlantic Diaspora	3	HST
+Anthropology
+01:070:102	Introduction to Human Evolution	4	NS, HST
+01:070:105	Introduction to Archaeology	4	HST
+01:070:112	World Prehistory	3	HST
+01:070:238	Anthropology of Europe	3	SCL
+01:070:243	Anthropology of Africa	3	HST or SCL
+Art History
+01:082:105	Introduction to Art History 	3	HST, AHp
+01:082:106	Introduction to Art History 	3	HST, AHp
+01:082:107	Survey of Non-Western Art	3	HST, AHp
+01:082:118	Looking at Twenty First-Century World History	3	CC, HST
+01:082:214	Renaissance Art in Europe	3	HST, AHp
+01:082:277	Art and Medicine	3	HST, AHp
+Asian Studies
+01:098:241	East Asian Civilizations: Traditional Era 	3	HST or SCL, WCr or WCd
+01:098:250	Global East Asia	4	CC, HST or SCL
+Chinese
+01:165:215	Introduction to Chinese Civilization	3	HST, AHp
+01:165:220	Chinese Classics and Thought: Confucianism, Daoism, and Buddhism	3	HST, AHo
+Classics
+01:190:205	Greek Civilization	3	HST, AHo or AHp
+01:190:206	Roman Civilization	3	HST, AHo or AHp
+01:190:211	Greek and Roman Religion	3	HST, AHo
+01:190:213	Science and Technology in Ancient Greece and Rome	3	HST
+01:190:214	Sexuality in Ancient Greece and Rome	3	HST, AHp
+01:190:215	Introduction to Classical Archaeology	3	HST, AHp
+01:190:309	Greek and Roman Athletics	3	HST
+Comparative Literature
+01:195:374	Marx, Nietzsche, Freud	3	HST, AHo
+East Asian Languages and Area Studies
+01:214:241	East Asian Civilizations: Traditional Era 	3	HST or SCL, WCr or WCd
+Geography
+01:450:103	Human Geography: Space, Place and Location	3	HST or SCL
+01:450:205	World Cultural Regions	3	HST or SCL
+01:450:211	Environment and Society	3	HST or SCL
+01:450:241	The City: Introduction to Urban Geography	3	SCL
+01:450:250	Cities	 	CC, SCL
+German
+01:470:371	Marx, Nietzsche, Freud	3	HST, AHo
+Greek
+01:489:205	History of the Byzantine Empire	3	HST
+01:489:207	Byzantine Civilization	3	HST
+History
+01:506:101	World History I	3	HST
+01:506:102	World History II	3	HST
+01:506:110	Age of European Global Expansion 	3	HST
+01:506:112	Patterns in Civilization: Love	3	HST or SCL
+01:506:113	Patterns in Civilization: Death 	3	HST or SCL
+01:506:118	Looking at Twenty First-Century World History	3	CC, HST
+01:506:151	History and the News	3	CC, HST
+01:506:201	20th Century Global History to 1945	3	HST or SCL
+01:506:202	20th Century Global History from 1945	3	HST or SCL
+01:506:203	Histories of the Pacific 	3	HST
+01:506:212	Women in Europe and the United States since 1800	3	HST or SCL
+01:506:215	The Modern Girl	3	HST
+01:506:220	Piracy: A Global History	3	HST
+01:506:251	History of Science and Society 	3	HST
+01:506:271	Jewish Society and Culture I: From Antiquity to the Middle Ages 	3	HST
+01:506:272	Jewish Society and Culture II: The Modern Experience 	3	HST
+01:508:110	Political Islam	3	CC, HST
+01:508:201	Islamic Civilization 	3	HST or SCL
+01:508:205	History of the Modern Middle East 	3	HST or SCL
+01:508:209	Jerusalem Contested: A City's History from Jewish, Christian, and Muslim Perspectives	3	CC, HST
+01:508:220	Ancient Africa 	3	HST or SCL
+01:508:222	Modern Africa 	3	HST or SCL
+01:508:224	Women and Gender in African History	3	HST or SCL
+01:508:226	War and Violence in Africa	 	CC, HST
+01:508:230	The Making of Modern India and Pakistan	3	HST
+01:508:240	Classical Asia	3	HST
+01:508:242	Modern East Asia 	3	HST
+01:508:246	History of Chinese Civilization	3	HST
+01:508:250	Southeast Asia and the World	3	HST or SCL
+01:508:262	Modern Latin America 	3	HST
+01:508:271	History of the Caribbean to 1898	3	HST or SCL
+01:508:272	History of the Caribbean since 1898 	3	HST or SCL
+01:508:280	Native American History I	3	HST
+01:508:282	Modern Native American History	3	HST or SCL
+01:510:101	Development of Europe I	3	HST
+01:510:102	Development of Europe II	3	HST
+01:510:205	History of the Byzantine Empire	3	HST
+01:510:207	Byzantine Civilization	3	HST
+01:510:224	Europe: Gender, Sex, and Society	3	HST or SCL
+01:510:245	The Arts of Power: Ritual, Myth, and Propaganda	4	HST or SCL
+01:510:253	History of Witchcraft and Magic 	3	HST
+01:510:261	History of the Holocaust 	3	HST
+01:510:388	Jewish-Christian Relations through the Ages	3	HST
+01:512:103	Development of the United States I	3	HST
+01:512:104	Development of the United States II	3	HST
+01:512:107	Development of the United States I	4	HST
+01:512:108	Development of the United States II	4	HST
+01:512:111	Race, Place, and Space in American History 	3	HST
+01:512:205	The American Presidency	3	HST
+01:512:216	Famous Trials	3	CC, HST
+01:512:231	American Jewish History	3	HST
+01:512:235	Accidents and Disasters in the U.S. and the World	3	HST
+01:512:266	History of the Black American	3	HST or SCL
+01:512:268	Plantation to White House	3	CC, HST or SCL
+Jewish Studies
+01:563:100	Introduction to the Modern Middle East	3	CC, HST or SCL, AHo
+01:563:201	Jewish Society and Culture I: From Antiquity to the Middle Ages 	3	HST
+01:563:202	Jewish Society and Culture II: The Modern Experience 	3	HST
+01:563:205	History of the Modern Middle East	3	HST or SCL
+01:563:206	Introduction to the Bible II: Prophets and Poetry	3	HST, AHp
+01:563:220	Introduction to the Bible I: Torah and Prose (formerly Hebrew Bible)	3	HST, AHp
+01:563:223	New Testament	3	HST
+01:563:231	American Jewish History	3	HST
+01:563:261	History of the Holocaust 	3	HST
+01:563:280	Jerusalem Contested: A City's History from Jewish, Christian, and Muslim Perspectives	3	CC, HST
+Korean
+01:574:210	Introduction to Korean Culture, History and Society	3	HST, AHo, WCr
+Latin American Studies
+01:590:101	Latin America: An Introduction 	3	CC, HST or SCL
+Latino and Caribbean Studies
+01:595:204	History of the Caribbean to 1898 	3	HST or SCL
+01:595:205	History of the Caribbean since 1898 	3	HST or SCL
+Middle Eastern Studies
+01:685:100	Introduction to the Modern Middle East 	3	CC, HST or SCL, AHo
+01:685:110	Political Islam: Present and Past	3	CC, HST
+01:685:201	Islamic Civilization 	3	HST or SCL
+01:685:203	History of the Modern Middle East	3	HST or SCL
+01:685:205	History of the Byzantine Empire	3	HST
+01:685:207	Byzantine Civilization	3	HST
+01:685:208	Jewish Society & Culture I: From Antiquity to the Middle Ages 	3	HST
+01:685:226	Islam	3	HST, AHo
+01:685:280	Jerusalem Contested: A City's History from Jewish, Christian, and Muslim Perspectives	3	CC, HST
+01:685:306	Multiple Identities of the Middle East	3	CC, HST
+01:685:336	History and Cultures of Iran	3	HST
+01:685:350	Introduction to the Modern Middle East 	3	CC, HST or SCL, AHo
+01:685:359	Women and Politics in the Middle East	3	HST or SCL
+Philosophy
+01:730:344	Marx, Nietzsche, Freud	3	HST, AHo
+01:730:368	Hindu Philosophy	3	HST, AHo or AHp
+01:730:369	Buddhist Philosophy	3	HST, AHo
+Political Science
+01:790:103	Comparative Politics 	3	HST or SCL
+01:790:106	Law and Politics 	3	HST or SCL
+01:790:120	Inequality	3	CC, SCL
+01:790:359	Women and Politics in the Middle East	3	HST or SCL
+Psychology
+01:830:123	Soul Beliefs: Causes and Consequences	4	CC, HST
+Religion
+01:840:125	Political Islam: Present and Past	3	CC, HST
+01:840:201	Introduction to the Bible: Torah and Prose (formerly Hebrew Bible)	3	HST, AHp
+01:840:202	New Testament	3	HST
+01:840:206	Introduction to the Bible II: Prophets and Poetry	3	HST, AHp
+01:840:211	Religion in Asia	3	HST, AHo or AHp
+01:840:212	Religions of the Western World	3	HST or SCL, AHo
+01:840:222	The Question of God in Modern Culture	3	HST, AHo
+01:840:226	Islam	3	HST, AHo
+01:840:305	Apocalypse: Religious Movements and the End of Time	3	HST, WCr or WCd
+01:840:314	The Origins of Western Morality	3	HST, WCr or WCd
+01:840:316	Evangelicalism in the U.S.	3	HST, WCr or WCd
+01:840:319	Religion in American History	3	HST, WCr or WCd
+01:840:368	Hindu Philosophy 	3	HST, AHo or AHp
+01:840:369	Buddhist Philosophy	3	HST, AHo
+01:840:370	Buddhism, Society, and Politics in Southeast Asia	3	HST, WCr or WCd
+01:840:380	Religious Healing in the U.S.	3	HST, WCr or WCd
+Women's and Gender Studies
+01:988:212	Women in Europe and the United States since 1800 	3	HST or SCL
+01:988:224	Women and Gender in African History 	3	HST or SCL
+01:988:253	History of Witchcraft and Magic 	3	HST
+01:988:260	The Modern Girl	3	HST
+Landscape Architecture
+11:550:101	Landscape Studies	3	HST, AHp
+11:550:250	History of Landscape Architecture	3	HST
+Labor Studies
+37:575:201	U.S. Labor and Work before the end of Reconstruction	3	HST or SCL, WCr or WCd
+37:575:202	History of Labor and Work in the U.S. 1880 to 1945	3	HST or SCL, WCr or WCd

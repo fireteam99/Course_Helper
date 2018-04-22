@@ -1,0 +1,62 @@
+01:198:105	Great Insights in Computer Science	3	QR, ITR
+01:198:107	Computing for Math and the Sciences	3	QR, ITR
+01:198:110	Introduction to Computers and Their Application	3	QR, ITR
+01:198:111	Introduction to Computer Science	4	QQ or QR, ITR
+01:198:142	Data 101	3	CC, QQ or QR, ITR
+01:198:170	Computer Applications for Business	3	QR, ITR
+Economics
+01:220:110	Personal Finance and Financial Decision-Making	3	QQ or QR
+Kinesiology and Health
+01:377:275	Basic Statistics for Exercise Science	3	QQ or QR
+01:377:276	Basic Statistics for Sport Management	3	QQ or QR
+Geography
+01:450:320	Spatial Data Analysis	3	QQ or QR
+01:450:3C	Geographic Information Systems	3	QR, ITR
+Linguistics
+01:615:201	Introduction to Linguistic Theory 	3	AHq, QR
+Mathematics
+01:640:103	Topics in Mathematics for the Liberal Arts	3	QQ or QR
+01:640:104	Introduction to Probability (formerly Elementary Combinatorics and Probability)	3	QQ or QR
+01:640:106	Mathematics of Money (formerly Special Topics in Mathematics)	3	QQ or QR
+01:640:107	Number and Operation for K-8 Teaching  (formerly Mathematics for Elementary Teaching)	3	QQ or QR
+01:640:108	Problem Solving and Reasoning with Discrete Mathematics	3	QQ or QR
+01:640:109	Geometry and Measurement for Middle Grades Teaching (formerly Geometry and Measurement for Elementary Teaching)	3	QQ or QR
+01:640:110	Algebra for Middle School Teachers	3	QQ or QR
+01:640:112	Precalculus II 	2	QQ or QR
+01:640:115	Precalculus College Mathematics 	4	QQ or QR
+01:640:135	Calculus I 	4	QQ or QR
+01:640:136	Calculus II 	4	QQ or QR
+01:640:138	Calculus II for the Biological Sciences 	4	QQ or QR
+01:640:151	Calculus for Mathematical and Physical Sciences 	4	QQ or QR
+01:640:152	Calculus for Mathematical and Physical Sciences 	4	QQ or QR
+01:640:191	Honors Calculus I 	4	QQ or QR
+01:640:192	Honors Calculus II 	4	QQ or QR
+01:640:198	The Mathematics of Money	3	QQ or QR
+MA:640:CAL	Placement into Calculus 	0	QQ or QR
+MA:640:CLG	Placement into Calculus 	0	QQ or QR
+MA:640:CLS	Placement into Calculus 	0	QQ or QR
+Philosophy
+01:730:109	Introduction to Formal Reasoning and Decision-making	3	QQ or QR
+01:730:201	Introduction to Logic	3	QR
+01:730:202	Introduction to Logic	4	QR
+Psychology
+01:830:200	Quantitative Methods in Psychology 	4	QQ or QR
+Sociology
+01:920:312	Introduction to Statistics in Sociology	4	QQ or QR, ITR
+Statistics
+01:960:142	Data 101	3	CC, QQ or QR, ITR
+01:960:211	Statistics I 	3	QQ or QR, ITR
+01:960:212	Statistics II 	3	QQ or QR, ITR
+01:960:285	Introductory Statistics for Business 	3	QQ or QR, ITR
+01:960:379	Basic Probability and Statistics 	3	QR
+01:960:401	Basic Statistics for Research 	3	QQ or QR, ITR
+Information Technology and Informatics
+04:547:111	The Internet and the Information Environment: A Quantitative Approach	3	CC, QR, ITR
+Planning and Public Policy
+10:762:205	Basic Statistical Methods	4	QQ or QR
+Policy, Health, and Administration 
+10:775:205	Statistics for Professionals	4	QQ or QR
+Landscape Architecture
+11:550:241	Construction 1: Mapping and Engineering	4	QR
+Labor Studies
+37:575:250	Finance for Personal and Professional Success	3	QQ or QR

@@ -1,0 +1,221 @@
+Arts and Literatures [AHp]  
+African, Middle Eastern, and South Asian Languages and Literatures
+01:013:201	Crossroads: Classical Literatures of Africa, the Middle East and South Asia	3	AHo or AHp
+01:013:211	Introduction to the Literatures of Africa	3	AHo or AHp
+01:013:215	African Short Stories	3	AHp
+01:013:221	Introduction to the Literatures of the Middle East	3	AHo or AHp
+01:013:229	War and Literature in the Arab World	3	AHo or AHp
+01:013:231	Introduction to the Literatures of South Asia 	3	AHo or AHp
+01:013:232	Women Writers of South Asia	3	AHo or AHp
+01:013:307	Introduction to Postcolonial Literatures and Theories	3	CC, AHo or AHp
+01:013:312	African Folklore and Myth	3	AHo or AHp
+01:013:314	Islam and African Literature	3	AHo or AHp
+01:013:322	Middle Eastern Folklore and Myth	3	AHo or AHp
+01:013:331	Modern Literatures of South Asia 	3	AHo or AHp
+01:013:346	Literature and Memory in the Arab World	3	AHo or AHp
+American Studies
+01:050:101	Introduction to American Studies	3	AHo or AHp
+01:050:203	The American West	3	AHp
+01:050:210	The American Dream	4	CC, AHp
+01:050:227	Nineteenth Century American Literature and Culture	3	AHp
+01:050:228	The Contemporary American	3	SCL, AHp
+01:050:259	Popular Culture	3	AHo or AHp
+01:050:260	On the Road: Mobility in America	3	AHp
+01:050:295	Latino and Caribbean Cultural Studies	3	AHp, WCr
+01:050:316	Twenty-First Century Writing	3	CC, AHp
+Anthropology
+01:070:219	Anthropology of Music	3	AHp
+Art History
+01:082:101	Building the Future: An Introduction to Architecture	3	CC, AHp
+01:082:105	Introduction to Art History 	3	HST, AHp
+01:082:106	Introduction to Art History	3	HST, AHp
+01:082:107	Survey of Non-Western Art	3	HST, AHp
+01:082:214	Renaissance Art in Europe	3	HST, AHp
+01:082:240	Introduction to Modern and Contemporary African Art	3	AHp
+01:082:253	Contemporary Photography	3	AHp, WCr or WCd
+01:082:275	Cinema and the City	3	AHp
+01:082:277	The Art of the Body: Visual Culture & Medicine	3	HST, AHp
+Chinese
+01:165:215	Introduction to Chinese Civilization	3	HST, AHp
+01:165:241	Classical Chinese Prose and Poetry in Translation	3	AHp
+01:165:242	Classical Chinese Popular Fiction and Drama in Translation	3	AHp
+Cinema Studies
+01:175:306	Modern French Cinema (in English)	3	AHp
+01:175:321	World Cinema II	3	CC, AHp
+Classics
+01:190:205	Greek Civilization	3	HST, AHo or AHp
+01:190:206	Roman Civilization	3	HST, AHo or AHp
+01:190:207	Greek and Roman Mythology	3	AHp
+01:190:214	Sexuality in Ancient Greece and Rome	3	HST, AHp
+01:190:215	Introduction to Classical Archaeology	3	HST, AHp
+Comparative Literature
+01:195:101	Introduction to World Literature	3	AHp
+01:195:110	Introduction to Heritage Culture and Language Studies	3	AHo or AHp
+01:195:135	Short Fiction (formerly Introduction to Short Fiction)	3	AHp
+01:195:137	The Haunted	3	AHp
+01:195:140	Being Human	3	AHp
+01:195:201	Literature Across Borders 	3	AHo or AHp
+01:195:203	Masterworks of Western Literature	3	AHp, WCr, WCd
+01:195:216	Introduction to World Literatures in English	3	AHp
+01:195:227	Tales of Horror	3	AHo, AHp
+01:195:230	Modern Jewish Culture: Key Texts and their Afterlives	3	AHp
+01:195:232	Women Writers of South Asia	3	AHo or AHp
+01:195:240	Animals and Humans	3	AHp
+01:195:243	Introduction to the Literatures of South Asia	3	AHo or AHp
+01:195:244	Introduction to Myth	3	AHp
+01:195:246	Fairy Tales Then and Now	3	AHp, WCd
+01:195:249	Modern Literatures of South Asia 	3	AHo or AHp
+01:195:251	Major French Writers in Translation	3	AHp, WCd
+01:195:256	Introducing Italy, City by City 	3	AHo or AHp
+01:195:260	Introduction to Caribbean Literature	3	AHp
+01:195:270	Past Today	3	CC, AHo or AHp
+01:195:272	Russia: Between Empire and Nation	3	CC, AHp
+01:195:295	Latino and Caribbean Cultural Studies	3	AHp, WCr
+01:195:307	Introduction to Postcolonial Literatures and Theories	3	CC, AHo or AHp
+01:195:311	Dostoevsky	3	AHo or AHp
+01:195:315	Dante and Medieval Culture	3	AHo or AHp
+01:195:321	World Cinema II	3	CC, AHp
+01:195:330	Literature and Culture of Brazil	3	AHp
+01:195:337	Literature and Memory in The Arab World	3	AHo or AHp
+01:195:348	Stories of Russian Life: Memory, Invention, Experience	3	AHo or AHp, WCd
+01:195:361	Brazil and the U.S.: Comparative Approaches	3	AHo or AHp
+01:195:364	Big Bang: The Literature of Chaos and Order	3	AHo, AHp
+01:195:382	Kafka and World Literature	3	AHo, AHp
+English
+01:351:314	Documentary Filmmaking for Writers	3	AHp
+01:354:201	Introduction to Film	3	AHp
+01:354:202	Introduction to Film	3	AHp
+01:354:205	Cinema Today	4	CC, AHp
+01:354:210	Close Readings of Cinema	3	AHp
+01:354:250	The Films of Alfred Hitchcock	4	AHp
+01:354:270	American Screen Comedy	4	AHp
+01:354:321	World Cinema II	3	CC, AHp
+01:358:200	Once Upon A Time: Why We Tell Stories	4	AHp
+01:358:201	Introduction to Literature	3	AHp
+01:358:202	Shakespeare	3	AHp
+01:358:203	Shakespeare and Film	3	AHp
+01:358:205	The Coming Apocalypse	4	CC, AHp
+01:358:210	British Literature from the Middle Ages to 1800	3	AHp
+01:358:213	Major Topics and Authors in American Literature	3	AHp
+01:358:214	Introduction to 20th-Century Literature (formerly Introduction to Modern and Contemporary Literature)	3	AHp
+01:358:215	Introduction to 21st-Century Literature	3	AHp
+01:358:216	Introduction to World Literatures in English	3	AHp
+01:358:218	Black Literature From 1930 to the Present	3	AHp
+01:358:240	Introduction to Dramatic Literature	3	AHp
+01:358:241	Introduction to Poetry	3	AHp
+01:358:242	Introduction to the Novel	3	AHp
+01:358:243	Introduction to the Short Story	3	AHp
+01:358:244	Introduction to Myth	3	AHp
+01:358:252	Introduction to Children's Literature	3	AHp
+01:358:253	Introduction to Crime Fiction	3	AHp
+01:358:254	Introduction to Science Fiction	3	AHp
+01:358:256	Introduction to the Graphic Novel	3	AHp
+01:358:260	Introduction to Multiethnic Literatures of the United States	3	AHp
+01:358:261	Introduction to the Study of Women Writers	3	AHp
+01:358:263	Civilization and its Discontents	3	AHo or AHp
+01:358:275	The Cultural History of Now	3	CC, AHp
+01:359:201	Principles of Literary Study: Poetry (formerly Principles of Literary Study)	3	AHp, WCd
+01:359:202	Principles of Literary Study: Prose (formerly Principles of Literary Study)	3	AHp, WCd
+01:359:209	Introduction to Health, Medicine, and Literature	3	AHp, WCr
+French
+01:420:160	Short Stories of France (in English)	3	AHp
+01:420:214	Composition and Stylistics	3	AHp or AHq, WCd
+01:420:215	Aspects of French Literature	3	AHo or AHp, WCd
+01:420:216	Aspects of French Literature	3	AHo or AHp, WCd
+01:420:217	Approaches to French Literature (Honors)	3	AHo or AHp, WCd
+01:420:218	Approaches to French Literature (Honors)	3	AHo or AHp, WCd
+01:420:241	Major French Writers in Translation 	3	AHp, WCd
+01:420:242	Major French Writers in Translation 	3	AHp, WCd
+01:420:251	France and the World - the World in France (Taught in English)	3	CC, AHp
+01:420:260	The Theater of France (in English)	3	AHp or AHq, WCd
+01:420:306	Modern French Cinema (in English)	3	AHp
+German
+01:470:225	Fairy Tales Then and Now	3	AHp, WCd
+01:470:227	Tales of Horror	3	AHo, AHp
+01:470:275	Introduction to German Studies	3	AHp, WCd
+01:470:301	Introduction to Literary and Cultural Analysis	3	AHp, WCr or WCd
+01:470:302	Introduction to Literary and Cultural Analysis	3	AHp, WCr or WCd
+01:470:324	Masters of German Drama	3	AHp
+01:470:350	The Nazi Period in Film	3	AHp
+01:470:354	Kafka and World Literature	3	AHo, AHp
+01:470:364	Big Bang: The Literature of Chaos and Order	3	AHo, AHp
+Italian
+01:560:231	Italian Culture I	3	AHo or AHp
+01:560:232	Italian Culture II	3	AHo or AHp
+01:560:256	Introducing Italy, City by City	3	AHo or AHp
+01:560:290	The Renaissance at the Movies and in Popular Culture	3	AHo or AHp
+01:560:315	Dante and Medieval Culture	3	AHo or AHp
+01:560:316	Of Men and Supermen: Italian Literature and Fascism	3	AHo or AHp
+01:560:345	Classics of Italian Cinema (formerly History of Italian Cinema)	3	AHo or AHp
+01:560:362	Women's Lives and Literature	3	AHo or AHp
+01:560:368	Walking in the Metropolis	3	AHo or AHp
+01:560:391	Literature, Culture, and Gastronomy of Italy 	3	AHo or AHp
+Japanese
+01:565:215	A-Bomb Literature and Film in Japan	3	CC, AHp
+Jewish Studies
+01:563:206	Introduction to the Bible II: Prophets and Poetry	3	HST, AHp
+01:563:220	Introduction to the Bible I: Torah and Prose (formerly Hebrew Bible)	3	HST, AHp
+01:563:230	Modern Jewish Culture: Key Texts and their Afterlives	3	AHp
+01:563:355	Kafka and World Literature	3	AHo, AHp
+Korean
+01:574:220	Introduction to Korean Literature in Translation	3	AHo or AHp
+Latino and Caribbean Studies
+01:595:270	Introduction to Caribbean Literature	3	AHp
+01:595:295	Latino and Caribbean Cultural Studies	3	AHp, WCr
+Middle Eastern Studies
+01:685:204	Crossroads: Classical Literatures of Africa, the Middle East and South Asia	3	AHo or AHp
+01:685:221	Introduction to the Literatures of the Middle East	3	AHo or AHp
+01:685:323	Middle Eastern Folklore and Myth	3	AHo or AHp
+01:685:347	Literature and Memory in The Arab World	3	AHo or AHp
+Philosophy
+01:730:368	Hindu Philosophy	3	HST, AHo or AHp
+Portuguese
+01:810:330	Literature and Culture of Brazil	3	AHp
+01:810:361	Brazil and the U.S.: Comparative Approaches	3	AHo or AHp
+Religion
+01:840:201	Introduction to the Bible: Torah and Prose (formerly Hebrew Bible) 	3	HST, AHp
+01:840:206	Introduction to the Bible II: Prophets and Poetry	3	HST, AHp
+01:840:211	Religion in Asia	3	HST, AHo or AHp
+01:840:324 	Chinese Religions	3	AHo or AHp
+01:840:368	Hindu Philosophy 	3	HST, AHo or AHp
+Russian & East european languages and Literature
+01:787:250	Contemporary Polish Literature	3	AHp
+01:860:259	Introduction to 19th Century Russian Literature	3	AHp
+01:860:260	Introduction to 20th Century Russian Literature	3	AHp
+01:860:272	Russia: Between Empire and Nation	4	AHp
+01:860:322	Love and Death in the Russian Short Story	3	AHo or AHp, WCd
+01:860:330	Dostoevsky	3	AHo or AHp
+01:860:331	Tolstoy	3	AHo or AHp, WCd
+01:860:348	Stories of Russian Life: Memory, Invention, Experience (formerly Autobiographical Creations in Russian Literature)	3	AHo or AHp, WCd
+01:967:259	Ukrainian Literature in Translation	3	AHp
+Spanish
+01:940:215	Introduction to Hispanic Literature	3	AHp or AHq
+01:940:270	Introduction to Caribbean Literature	3	AHp
+01:940:342	Women Writers of the Hispanic World	3	AHp
+01:940:351	Women Writers of the Hispanic World - English	3	AHp
+Women's and Gender Studies
+01:988:202	Gender, Culture and Representation	3	AHo or AHp
+01:988:232	Women Writers of South Asia	3	AHo or AHp
+01:988:265	Introduction to the Study of Women Writers	3	AHp
+01:988:342	Women Writers of the Hispanic World 	3	AHp
+01:988:351	Women Writers of the Hispanic World - English 	3	AHp
+Dance
+Dance Appreciation and Dance Appreciation On-line Cannot Be Used To Meet Core Curriculum Learning Goals If Taken After The Spring 2016 Term
+07:203:102	History of Broadway Dance	3	AHo or AHp
+07:203:132 (was 07:631:121)	History of Broadway Dance Online	3	AHo or AHp
+07:203:133 (was 07:631:122)	Dance in Istanbul Online	3	AHo or AHp
+Music
+07:700:101	Introduction to Music	3	AHp
+07:700:131 (was 07:631:101)	Introduction to Music Online	3	AHp
+07:700:290	Rock and Roll as a Cultural Phenomenon: History and Development of Rock and Related Genres	3	AHp
+07:700:291	Jazz Appreciation (formerly Black American Music Since 1900)	3	AHp
+07:700:292	Musics of the World (formerly Introduction to World Music)	3	CC, AHp
+Theater Arts
+07:965:211	Theater Appreciation I	3	AHo or AHp
+07:965:212	Theater Appreciation II	3	AHo or AHp
+07:965:231	Theater History I Online	3	AHp
+07:965:281	Theater History I	3	AHp
+07:965:290	Broadway: The American Musical	3	AHp
+Landscape Architecture
+11:550:101	Landscape Studies	3	HST, AHp
+11:550:230	Environmental Design Analysis	3	CC, AHp

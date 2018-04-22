@@ -1,0 +1,144 @@
+01:013:201	Crossroads: Classical Literatures of Africa, the Middle East and South Asia	3	AHo or AHp
+01:013:203	Language and Society in Africa, the Middle East, and South Asia	3	AHo or AHq
+01:013:211	Introduction to the Literatures of Africa	3	AHo or AHp
+01:013:221	Introduction to the Literatures of the Middle East	3	AHo or AHp
+01:013:229	War and Literature in the Arab World	3	AHo or AHp
+01:013:231	Introduction to the Literatures of South Asia	3	AHo or AHp
+01:013:232	Women Writers of South Asia	3	AHo or AHp
+01:013:307	Introduction to Postcolonial Literatures and Theories	3	CC, AHo or AHp
+01:013:312	African Folklore and Myth	3	AHo or AHp
+01:013:314	Islam and African Literature	3	AHo or AHp
+01:013:322	Middle Eastern Folklore and Myth	3	AHo or AHp
+01:013:331	Modern Literatures of South Asia	3	AHo or AHp
+01:013:346	Literature and Memory in the Arab World	3	AHo or AHp
+01:013:372	Islamic Mystical Literatures	3	AHo, WCr or WCd
+American Studies
+01:050:101	Introduction to American Studies	3	AHo or AHp
+01:050:240	Latino Literature and Culture	3	AHo, WCr
+01:050:259	Popular Culture	3	AHo or AHp
+Chinese
+01:165:220	Chinese Classics and Thought: Confucianism, Daoism, and Buddhism	3	HST, AHo
+Chinese Studies
+01:170:284	Chinese Philosophical Themes and Literary Writings	3	AHo or AHp, WCr or WCd
+01:170:328	Special Topics in Modern Chinese Literature and Film	3	AHo or AHp, WCr or WCd
+Classics
+01:190:205	Greek Civilization	3	HST, AHo or AHp
+01:190:206	Roman Civilization	3	HST, AHo or AHp
+01:190:211	Greek and Roman Religion	3	HST, AHo
+Cognitive Science
+01:185:253	Human Nature and Human Diversity	4	CC, AHo
+Comparative Literature
+01:195:110	Introduction to Heritage Culture and Language Studies	3	AHo or AHp
+01:195:201	Literature Across Borders 	3	AHo or AHp
+01:195:220	The Global Ecological Imagination	3	CC, AHo
+01:195:227	Tales of Horror	3	AHo, AHp
+01:195:232	Women Writers of South Asia	3	AHo or AHp
+01:195:243	Introduction to the Literatures of South Asia	3	AHo or AHp
+01:195:249	Modern Literatures of South Asia 	3	AHo or AHp
+01:195:256	Introducing Italy, City by City	3	AHo or AHp
+01:195:364	Big Bang: The Literature of Chaos and Order	3	AHo, AHp
+01:195:270	Past Today	3	CC, AHo or AHp
+01:195:301	Introduction to Literary Theory 	3	AHo
+01:195:307	Introduction to Postcolonial Literatures and Theories 	3	CC, AHo or AHp
+01:195:311	Dostoevsky	3	AHo or AHp
+01:195:315	Dante and Medieval Culture	3	AHo or AHp
+01:195:337	Literature and Memory in The Arab World	3	AHo or AHp
+01:195:348	Stories of Russian Life: Memory, Invention, Experience	3	AHo or AHp, WCd
+01:195:361	Brazil and the U.S.: Comparative Approaches	3	AHo or AHp
+01:195:364	Big Bang: The Literature of Chaos and Order	3	AHo or AHp
+01:195:374	Marx, Nietzsche, Freud	3	HST, AHo
+01:195:382	Kafka and World Literature	3	AHo, AHp
+English
+01:358:263	Civilization and its Discontents	3	AHo or AHp
+01:359:210	Introduction to Literary Theory (formerly Readings in Literary Theory)	3	AHo
+01:359:220	Introduction to Performance Theory	3	AHo
+French
+01:420:215	Aspects of French Literature	3	AHo or AHp, WCd
+01:420:216	Aspects of French Literature	3	AHo or AHp, WCd
+01:420:217	Approaches to French Literature (Honors)	3	AHo or AHp, WCd
+01:420:218	Approaches to French Literature (Honors)	3	AHo or AHp, WCd
+German
+01:470:371	Marx, Nietzsche, Freud	3	HST, AHo
+01:470:227	Tales of Horror	3	AHo, AHp
+01:470:354	Kafka and World Literature	3	AHo, AHp
+01:470:360	Classics of German Cinema: From Haunted Screen to Hyperreality	3	AHo
+01:470:364	Big Bang: The Literature of Chaos and Order	3	AHo, AHp
+Italian
+01:560:231	Italian Culture I	3	AHo or AHp
+01:560:232	Italian Culture II	3	AHo or AHp
+01:560:256	Introducing Italy, City by City 	3	AHo or AHp
+01:560:290	The Renaissance at the Movies and in Popular Culture	3	AHo or AHp
+01:560:315	Dante and Medieval Culture	3	AHo or AHp
+01:560:316	Of Men and Supermen: Italian Literature and Fascism	3	AHo or AHp
+01:560:345	Classics of Italian Cinema (formerly History of Italian Cinema)	3	AHo or AHp
+01:560:362	Women's Lives and Literature	3	AHo or AHp
+01:560:368	Walking in the Metropolis	3	AHo or AHp
+01:560:391	Literature, Culture, and Gastronomy of Italy 	3	AHo or AHp
+Jewish Studies
+01:563:355	Kafka and World Literature	3	AHo, AHp
+Korean
+01:574:210	Introduction to Korean Culture, History and Society	3	HST, AHo, WCr
+01:574:220	Introduction to Korean Literature in Translation	3	AHo or AHp
+01:574:250	Korean Language in Culture and Society	3	AHo or AHq
+Latino and Caribbean Studies
+01:595:202	Color-Lines and Borderlands	4	AHo, CC
+01:595:240	Latino Literature and Culture	3	AHo, WCr
+Middle Eastern Studies
+01:685:100	Introduction to the Modern Middle East	3	CC, HST or SCL, AHo
+01:685:204	Crossroads: Classical Literatures of Africa, the Middle East and South Asia	3	AHo or AHp
+01:685:221	Introduction to the Literatures of the Middle East	3	AHo or AHp
+01:685:226	Islam 	3	HST, AHo
+01:685:323	Middle Eastern Folklore and Myth	3	AHo or AHp
+01:685:347	Literature and Memory in The Arab World	3	AHo or AHp
+01:685:350	Introduction to the Modern Middle East 	3	CC, HST or SCL, AHo
+Philosophy
+01:730:101	Logic, Reasoning, and Persuasion	3	AHo
+01:730:103	Intro to Philosophy	3	AHo
+01:730:104	Introduction to Philosophy 	4	AHo, WCr or WCd
+01:730:105	Current Moral and Social Issues	3	AHo
+01:730:106	Current Moral and Social Issues	4	AHo
+01:730:107	Introduction to Ethics 	3	AHo
+01:730:108	Introduction to Ethics	4	AHo
+01:730:204	Introduction to Classical Greek Philosophy	3	AHo
+01:730:218	Introduction to the Philosophy of Mind	3	AHo
+01:730:225	Introduction to the Philosophy of Science	3	Aho
+01:730:252	Eating Right: The Ethics of Food Choices and Food Policy	3	AHo
+01:730:253	Human Nature and Human Diversity	4	CC, AHo
+01:730:344	Marx, Nietzsche, Freud	3	HST, AHo
+01:730:368	Hindu Philosophy	3	HST, AHo or AHp
+01:730:369	Buddhist Philosophy	3	HST, AHo
+Portuguese
+01:810:361	Brazil and the U.S.: Comparative Approaches	3	AHo or AHp
+Religion
+01:840:101	Gods, Myths, and Religions in a Secular Age	3	CC, AHo
+01:840:105	Religions Now: 21st Century Controversies	4	CC, AHo
+01:840:112	Death and Afterlife	3	AHo
+01:840:211	Religion in Asia	3	HST, AHo or AHp
+01:840:212	Religions of the Western World 	3	HST or SCL, AHo
+01:840:222	The Question of God in Modern Culture	3	HST, AHo
+01:840:226	Islam	3	HST, AHo
+01:840:324	Chinese Religions	3	AHo or AHp
+01:840:368	Hindu Philosophy	3	HST, AHo or AHp
+01:840:369	Buddhist Philosophy	3	HST, AHo
+01:840:372	Islamic Mystical Literature	3	AHo, WCr or WCd
+Russian
+01:860:322	Love and Death in the Russian Short Story	3	AHo or AHp, WCd
+01:860:330	Dostoevsky	3	AHo or AHp
+01:860:331	Tolstoy	3	AHo or AHp, WCd
+01:860:348	Stories of Russian Life: Memory, Invention, Experience (formerly Autobiographical Creations in Russian Literature)	3	AHo or AHp, WCd
+spanish
+01:940:110	Introduction to Heritage Culture and Language Studies	3	AHo, AHq
+Women's and Gender Studies
+01:988:202	Gender, Culture and Representation	3	AHo or AHp
+01:988:232	Women Writers of South Asia	3	AHo or AHp
+Communication and Information
+04:189:101	Introduction to Communication and Information Systems and Processing	3	SCL, AHo or AHq
+Communication
+04:192:200	Communication Theory	3	AHo or AHq
+Dance (Dance Appreciation and Dance Appreciation On-line Cannot Be Used To Meet Core Curriculum Learning Goals If Taken After The Spring 2016 Term.)
+07:203:102	History of Broadway Dance	3	AHo or AHp
+07:203:133	Dance in Istanbul Online	3	AHo or AHp
+Theater Arts
+07:965:211	Theater Appreciation I	3	AHo or AHp
+07:965:212	Theater Appreciation II	3	AHo or AHp
+07:965:370	Global Theater I	3	CC, AHo

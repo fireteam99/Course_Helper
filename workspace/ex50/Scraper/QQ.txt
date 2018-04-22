@@ -1,0 +1,69 @@
+Anthropology
+01:070:316	Quantitative Methods in Evolutionary Anthropology	3	QQ
+Cognitive Science
+01:185:301	Cognition and Decision Making	4	QQ
+01:185:410	Language and Cognition	3	QQ
+Computer Science
+01:198:111	Introduction to Computer Science	4	QQ or QR, ITR
+01:198:142	Data 101	3	CC, QQ or QR, ITR
+Criminal Justice
+01:202:307	Criminal Justice Research Methods	3	QQ
+Economics
+01:220:110	Personal Finance and Financial Decision-Making	3	QQ or QR
+Exercise Science and Sport Studies
+01:377:275	Basic Statistics for Exercise Science	3	QQ or QR
+01:377:276	Basic Statistics for Sport Management	3	QQ or QR
+Geography
+01:450:320	Spatial Data Analysis	3	QQ or QR
+01:450:330	Geographical Methods	3	QQ
+Linguistics
+01:615:435	Experimental Methodologies in Language Acquisition	3	QQ
+01:615:445	Language and Cognition	3	QQ
+Mathematics
+01:640:103	Topics in Mathematics for the Liberal Arts 	3	QQ or QR
+01:640:104	Introduction to Probability (formerly Elementary Combinatorics and Probability)	3	QQ or QR
+01:640:106	Mathematics of Money (formerly Special Topics in Mathematics)	3	QQ or QR
+01:640:107	Number and Operation for K-8 Teaching  (formerly Mathematics for Elementary Teaching)	3	QQ or QR
+01:640:108	Problem Solving and Reasoning with Discrete Mathematics	3	QQ or QR
+01:640:109	Geometry and Measurement for Middle Grades Teaching (formerly Geometry and Measurement for Elementary Teaching)	3	QQ or QR
+01:640:110	Algebra for Middle School Teachers	3	QQ or QR
+01:640:112	Precalculus II 	2	QQ or QR
+01:640:115	Precalculus College Mathematics 	4	QQ or QR
+01:640:135	Calculus I 	4	QQ or QR
+01:640:136	Calculus II 	4	QQ or QR
+01:640:138	Calculus II for the Biological Sciences 	4	QQ or QR
+01:640:151	Calculus for Mathematical and Physical Sciences 	4	QQ or QR
+01:640:152	Calculus for Mathematical and Physical Sciences 	4	QQ or QR
+01:640:191	Honors Calculus I 	4	QQ or QR
+01:640:192	Honors Calculus II 	4	QQ or QR
+01:640:198	Topics in Mathematics	3	QQ or QR
+MA:640:21AL	Placement into Calculus 	0	QQ or QR
+MA:640:CLG	Placement into Calculus 	0	QQ or QR
+MA:640:CLS	Placement into Calculus 	0	QQ or QR
+Philosophy
+01:730:109	Introduction to Formal Reasoning and Decision-making	3	QQ or QR
+Political Science
+01:790:300	Introduction to Political Science Methods	3	QQ, ITR
+Psychology
+01:830:200	Quantitative Methods in Psychology 	4	QQ or QR
+Sociology
+01:920:311	Introduction to Social Research 	4	QQ
+01:920:312	Introduction to Statistics in Sociology	4	QQ or QR, ITR
+Spanish
+01:940:365	Research Methods in Spanish Linguistics 	3	QQ
+Statistics
+01:960:142	Data 101	3	CC, QQ or QR, ITR
+01:960:211	Statistics I 	3	QQ or QR, ITR
+01:960:212	Statistics II 	3	QQ or QR, ITR
+01:960:285	Introductory Statistics for Business 	3	QQ or QR, ITR
+01:960:401	Basic Statistics for Research 	3	QQ or QR, ITR
+Communication
+04:192:300	Communication Research	3	QQ, ITR
+Planning and Public Policy
+10:762:205	Statistics for Professionals	4	QQ or QR
+Policy, Health, and Administration
+10:775:205	Statistics for Professionals	4	QQ or QR
+Public Health
+10:832:201	Principles of Public Health	3	SCL, QQ
+Labor Studies
+37:575:250	Finance for Personal and Professional Success	3	QQ or QR

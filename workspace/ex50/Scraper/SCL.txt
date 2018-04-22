@@ -1,0 +1,144 @@
+African Studies
+01:016:220	Ancient Africa 	3	HST or SCL
+01:016:222	Modern Africa 	3	HST or SCL
+01:016:224	Women and Gender in African History 	3	HST or SCL
+Africana Studies
+01:014:205	Islamic Civilization 	3	HST or SCL
+American Studies
+01:050:228	The Contemporary American	3	SCL, AHp
+01:050:271	Immigrant States: Jersey's Global Routes	3	CC, SCL
+Anthropology
+01:070:101	Introduction to Cultural Anthropology	4	SCL
+01:070:111	Extinction	4	CC, NS, SCL
+01:070:238	Anthropology of Europe	3	SCL
+01:070:243	Anthropology of Africa	3	HST or SCL
+Asian Studies
+01:098:241	East Asian Civilizations: Traditional Era 	3	HST or SCL, WCr or WCd
+01:098:250	Global East Asia	4	CC, HST or SCL
+Criminal Justice
+01:202:201	Introduction to Criminal Justice	3	SCL
+East Asian Languages and Area Studies
+01:214:241	East Asian Civilizations: Traditional Era 	3	HST or SCL, WCr or WCd
+01:214:245	Global East Asia (no longer offered)	3	CC, HST or SCL, WCd
+Economics
+01:220:102	Introduction to Microeconomics 	3	SCL
+01:220:102	Inequality	3	CC, SCL
+Geography
+01:450:103	Human Geography: Space, Place and Location 	3	HST or SCL
+01:450:205	World Cultural Regions 	3	HST or SCL
+01:450:211	Environment and Society	3	HST or SCL
+01:450:214	Conservation	4	CC, SCL
+01:450:240	Cities 	3	CC, HST or SCL
+01:450:241	The City: Introduction to Urban Geography	3	SCL
+01:450:250	Cities	4	CC, SCL
+History
+01:506:112	Patterns in Civilization: Love	3	HST or SCL
+01:506:113	Patterns in Civilization: Death 	3	HST or SCL
+01:506:114	World Civilizations: Europe, Africa, and America 	3	HST or SCL
+01:506:201	20th Century Global History to 1945	3	HST or SCL
+01:506:202	20th Century Global History from 1945	3	HST or SCL
+01:506:212	Women in Europe and the United States since 1800	3	HST or SCL
+01:508:201	Islamic Civilization 	3	HST or SCL
+01:508:205	History of the Modern Middle East 	3	HST or SCL
+01:508:211	Modern Israeli Culture	3	SCL
+01:508:220	Ancient Africa 	3	HST or SCL
+01:508:222	Modern Africa 	3	HST or SCL
+01:508:224	Women and Gender in African History	3	HST or SCL
+01:508:250	Southeast Asia and the World	3	HST or SCL
+01:508:271	History of the Caribbean to 1898	3	HST or SCL
+01:508:272	History of the Caribbean since 1898 	3	HST or SCL
+01:508:282	Native American History II	3	HST or SCL
+01:510:224	Europe: Gender, Sex, and Society	3	HST or SCL
+01:510:245	The Arts of Power: Ritual, Myth, and Propaganda	4	HST or SCL
+01:512:266	History of the Black American	3	HST or SCL
+01:512:268	Plantation to White House	3	CC, HST or SCL
+Interdisciplinary Studies
+01:556:271	Immigrant States: Jersey's Global Routes	3	CC, SCL
+Jewish Studies
+01:563:205	History of the Modern Middle East	3	HST or SCL
+01:563:281	Modern Israeli Culture	3	SCL
+01:563:350	Introduction to the Modern Middle East 	3	CC, HST or SCL, AHo
+Latin American Studie
+01:590:101	Latin America: An Introduction 	3	CC, HST or SCL
+01:590:298	Latinos and Migration	3	SCL
+Latino and Caribbean Studies
+01:595:204	History of the Caribbean to 1898 	3	HST or SCL
+01:595:205	History of the Caribbean since 1898 	3	HST or SCL
+01:595:298	Latinos and Migration	3	SCL
+01:595:333	Caribbean Religion	3	CC, SCL, WCr
+Middle Eastern Studies
+01:685:100	Introduction to the Modern Middle East	3	CC, HST or SCL, AHo
+01:685:201	Islamic Civilization	3	HST or SCL
+01:685:203	History of the Modern Middle East	3	HST or SCL
+01:685:281	Modern Israeli Culture	3	SCL
+01:685:305	The Modern Middle East 	3	HST or SCL
+01:685:350	Introduction to the Modern Middle East 	3	CC, HST or SCL, AHo
+01:685:359	Women and Politics in the Middle East	3	HST or SCL
+Organizational Leadership
+01:713:202	Introduction to Organizational Leadership	3	SCL
+Political Science
+01:790:101	Nature of Politics 	3	SCL
+01:790:102	Introduction to International Relations 	3	SCL
+01:790:103	Comparative Politics 	3	HST or SCL
+01:790:106	Law and Politics 	3	HST or SCL
+01:790:359	Women and Politics in the Middle East	3	HST or SCL
+Psychology
+01:830:101	General Psychology 	3	SCL
+Religion
+01:840:212	Religions of the Western World	3	HST or SCL, AHo
+01:840:333	Caribbean Religion	3	CC, SCL, WCr
+Sociology
+01:920:101	Introduction to Sociology	3	CC, SCL
+01:920:103	Sociological Analysis of Social Problems	3	CC, SCL
+01:920:108	Minority Groups in American Society	3	CC, SCL
+01:920:205	Mass Communication in Modern Society	3	SCL
+01:920:210	Sociology of Medicine and Health Care	3	SCL
+01:920:222	Criminology	3	SCL
+01:920:240	Normality and Abnormality	4	CC, SCL, WCd
+01:920:273	War: Critical Perspectives	3	CC, SCL
+Women's and Gender Studies
+01:988:212	Women in Europe and the United States since 1800 	3	HST or SCL
+01:988:224	Women and Gender in African History 	3	HST or SCL
+01:988:270	War: Critical Perspectives	3	CC, SCL
+01:988:309	Working Women in American Society	3	CC, SCL
+Communication and Information
+04:189:101	Introduction to Communication and Information Systems and Processing	3	SCL, AHo or AHq
+Information Technology and Informatics
+04:547:340	Gender and Technology 	3	CC, SCL, WCd
+Planning and Public Policy
+10:762:101	Introduction to Planning, Policy, and Health	3	SCL
+10:762:210	Principles of Public Policy	3	SCL, WCd
+10:762:233	The Urban World	3	SCL
+Policy, Health, and Administration
+10:775:101	Introduction to Planning, Policy, and Health	3	SCL
+Public Health
+10:832:101	Introduction to Planning, Policy, and Health	3	SCL
+10:832:201	Principles of Public Health	3	SCL, QQ
+10:832:242	Principles of Health and Wellness	3	SCL
+10:832:252	Health and Social Justice	3	CC, SCL
+Public Policy
+10:833:210	Principles of Public Policy	3	SCL, WCd
+Public Administration and Management
+10:843:210	Principles of Public Policy	3	SCL, WCd
+Environmental and Business Economics
+11:373:101	Economics, People, and the Environment	3	CC, SCL
+11:373:121	Principles and Applications of Microeconomics	3	SCL
+11:373:122	Principles and Applications of Macroeconomics	3	SCL
+11:373:201	Corporate Citizenship and Social Responsibility	3	SCL
+11:373:362	Natural Resource Economics	3	SCL
+Environmental Planning and Design
+11:573:202	Environmental Issues in the United States	3	CC, SCL
+Environmental Policies, Institutions and Behavior
+11:374:101	Introduction to Human Ecology	3	CC, SCL
+11:374:115	Water and Society	3	CC, SCL
+11:374:175	Energy and Society	3	CC, SCL
+11:374:279	Politics of Environmental Issues	3	CC, SCL
+Labor Studies
+37:575:100	Introduction to Labor Studies & Employment Relations	3	SCL
+37:575:110	Work, Society, and the Quality of Life	3	CC, SCL
+37:575:201	U.S. Labor and Work before the end of Reconstruction	3	HST or SCL, WCr or WCd
+37:575:202	History of Labor and Work in the U.S. 1880 to 1945	3	HST or SCL, WCr or WCd
+37:575:215	Youth and Work	3	CC, SCL
+37:575:230	People, Work, and Organizations	3	SCL
+37:575:303	Black Workers in American Society 	3	CC, SCL
+37:575:309	Working Women in American Society	3	CC, SCL
